@@ -16,9 +16,10 @@
 
 🧪 ɢᴇᴛ STRING_SESSION ꜰʀᴏᴍ ʜᴇʀᴇ:
 
-[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://replit.com/@Srikanth32014/LEGENDBOT#main.py) 
-## Repo Stats
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Itsunknown-12&repo=Zaid-Vc-Player&theme=dark)
+[![ɢᴇɴᴇʀᴀᴛᴇ ꜱᴇꜱꜱɪᴏɴ](https://replit.com/@Srikanth32014/LEGENDBOT#main.py)  
+
+Generate String from http://t.me/hyper_Sriki_bot
+
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
 - /ᴘʟᴀʏ <ꜱᴏɴɢ ɴᴀᴍᴇ> - ᴘʟᴀʏ ꜱᴏɴɢ ʏᴏᴜ ʀᴇQᴜᴇꜱᴛᴇᴅ
